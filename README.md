@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MuhammadMahfouz/Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/MuhammadMahfouz/Problem_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/MuhammadMahfouz/Problem_Solving/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MuhammadMahfouz/Problem_Solving/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/MuhammadMahfouz/Problem_Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
