@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        t = [float('inf'), float('inf'), float('inf')]
+        t = [float(max(nums)+1), float(max(nums)+1), float(max(nums)+1)]
 
         for num in nums:
             if num <= t[0]:
@@ -13,6 +13,7 @@ class Solution(object):
                 t[1] = num
             else:
                 return True
+                
         return False
     
         
